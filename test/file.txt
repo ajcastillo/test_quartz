@@ -1,0 +1,6 @@
+2012-07-19 10:52:53: Memoria usada 15MB -  Memoria libre 12MB
+2012-07-19 10:53:43: Memoria usada 15MB -  Memoria libre 12MB
+2012-07-19 10:53:53: Memoria usada 15MB -  Memoria libre 12MB
+2012-07-19 10:54:03: Memoria usada 15MB -  Memoria libre 12MB
+2012-07-19 10:54:13: Memoria usada 15MB -  Memoria libre 12MB
+2012-07-19 10:54:23: Memoria usada 15MB -  Memoria libre 12MB
